@@ -1,5 +1,9 @@
 # Splunk Logging for Java
 
+> **Verify has Closed**
+>
+>This repository is out of date and has been archived
+
 This is a fork of [Splunk's java logging library](https://github.com/splunk/splunk-library-javalogging). It was originally
 forked so we could enhance it to allow the configuration of the Apache http client used by the library, specifically the 
 http proxy settings. The aim is to get this change merged upstream.
